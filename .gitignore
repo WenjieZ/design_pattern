@@ -1,4 +1,6 @@
 *.class
+*.layout
+*.cbp
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
